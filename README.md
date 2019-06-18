@@ -1,6 +1,6 @@
 # studentperformance
 Erin Sutton
-Abdul Raheman Nasir Gazi
+, Abdul Raheman Nasir Gazi
 
 Goal: Does a students circumstances affect their final score in portuguese?
 
